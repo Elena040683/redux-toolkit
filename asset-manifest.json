@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/redux-toolkit/static/css/main.99fa4b50.css",
+    "main.js": "/redux-toolkit/static/js/main.518dea88.js",
+    "static/js/616.70763255.chunk.js": "/redux-toolkit/static/js/616.70763255.chunk.js",
+    "static/css/627.c3db67d9.chunk.css": "/redux-toolkit/static/css/627.c3db67d9.chunk.css",
+    "static/js/627.47e9de23.chunk.js": "/redux-toolkit/static/js/627.47e9de23.chunk.js",
+    "static/css/870.05991e23.chunk.css": "/redux-toolkit/static/css/870.05991e23.chunk.css",
+    "static/js/870.7c6c468f.chunk.js": "/redux-toolkit/static/js/870.7c6c468f.chunk.js",
+    "static/js/342.af040af6.chunk.js": "/redux-toolkit/static/js/342.af040af6.chunk.js",
+    "static/js/270.c7f5f2bf.chunk.js": "/redux-toolkit/static/js/270.c7f5f2bf.chunk.js",
+    "static/js/213.916c1298.chunk.js": "/redux-toolkit/static/js/213.916c1298.chunk.js",
+    "static/js/630.6b409e2b.chunk.js": "/redux-toolkit/static/js/630.6b409e2b.chunk.js",
+    "index.html": "/redux-toolkit/index.html",
+    "main.99fa4b50.css.map": "/redux-toolkit/static/css/main.99fa4b50.css.map",
+    "main.518dea88.js.map": "/redux-toolkit/static/js/main.518dea88.js.map",
+    "616.70763255.chunk.js.map": "/redux-toolkit/static/js/616.70763255.chunk.js.map",
+    "627.c3db67d9.chunk.css.map": "/redux-toolkit/static/css/627.c3db67d9.chunk.css.map",
+    "627.47e9de23.chunk.js.map": "/redux-toolkit/static/js/627.47e9de23.chunk.js.map",
+    "870.05991e23.chunk.css.map": "/redux-toolkit/static/css/870.05991e23.chunk.css.map",
+    "870.7c6c468f.chunk.js.map": "/redux-toolkit/static/js/870.7c6c468f.chunk.js.map",
+    "342.af040af6.chunk.js.map": "/redux-toolkit/static/js/342.af040af6.chunk.js.map",
+    "270.c7f5f2bf.chunk.js.map": "/redux-toolkit/static/js/270.c7f5f2bf.chunk.js.map",
+    "213.916c1298.chunk.js.map": "/redux-toolkit/static/js/213.916c1298.chunk.js.map",
+    "630.6b409e2b.chunk.js.map": "/redux-toolkit/static/js/630.6b409e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99fa4b50.css",
+    "static/js/main.518dea88.js"
+  ]
+}

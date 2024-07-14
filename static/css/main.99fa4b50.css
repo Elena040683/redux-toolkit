@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap);*{box-sizing:inherit;font-family:Noto Sans JP,sans-serif;margin:0;padding:0}a{text-decoration:none}:root{--deleteColor:#fb0;--backgroundColor:#5402f7}#root,body,html{height:100%}#root,body{display:flex;flex-direction:column;padding:30px}ul{list-style:none}.navLink{color:green}.activeNavLink{color:tomato}.Navigation_navList__FiO1\+{display:flex;justify-content:space-evenly;width:100%}
+/*# sourceMappingURL=main.99fa4b50.css.map*/
