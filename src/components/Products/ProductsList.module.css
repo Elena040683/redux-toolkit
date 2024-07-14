@@ -1,0 +1,18 @@
+.productItem {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.productTitle {
+  font-size: large;
+  text-transform: uppercase;
+}
+
+.productDesc {
+  font-size: small;
+}

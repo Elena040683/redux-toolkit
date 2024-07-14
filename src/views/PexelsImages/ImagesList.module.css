@@ -1,0 +1,10 @@
+.imagesList {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 2vmin 1vmin;
+}
+.loadMoreBtn {
+  display: block;
+  margin: 0 auto;
+}
